@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/GreyMattersBot/url-auto-delete-shortener-bot/blob/main/assets/IMG_20220105_010453-removebg-preview.png" alt="GreyMatter's Bot Logo">
+  <img src="https://cdn.jsdelivr.net/gh/vantough/test/ensembly_logo_new.png" alt="Ensemble Logo">
 </p>
 <h1 align="center">
-  <b>GreyMatter's Bot</b>
+  <b>Ensembly</b>
 </h1>
 
 
